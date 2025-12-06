@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+.RDataTmp*
+.Rproj.user/
+.DS_Store
+*.png
